@@ -9,7 +9,7 @@
 - `<!DOCTYPE html>`: là dòng code đầu tiên cần được khai báo trong mọi file HTML. Khai báo DOCTYPE giúp trình duyệt hiểu về phiên bản HTML mà website đang sử dụng (HTML5).
 - Thẻ `<html>`: toàn bộ trang web được bao bọc trong cặp thẻ html (gồm thẻ mở `<html>` và thẻ đóng `</html>`). Thẻ `<html>` (hay phần tử `<html>`) còn được gọi là phần tử gốc (**root**), đây là phần tử cấp cao nhất vì tất cả các phần tử khác đều là con của phần tử này.
 - Thẻ `<head>`: thẻ `<head>` là nơi chứa các thẻ _meta_, là các thẻ cung cấp thêm thông tin hiển thị của trang web. Ví dụ: tiêu đề trang web, các đường link tới file CSS, khả năng thu/phóng của trang web,…
-  Thẻ `<body>`: thẻ `<body>` là nơi chứa toàn bộ nội dung hiển thị của trang web. Mọi nội dung người dùng nhìn thấy trên các trang web đều nằm trong thẻ `<body>`.
+- Thẻ `<body>`: thẻ `<body>` là nơi chứa toàn bộ nội dung hiển thị của trang web. Mọi nội dung người dùng nhìn thấy trên các trang web đều nằm trong thẻ `<body>`.
 
 ## Attributes
 
